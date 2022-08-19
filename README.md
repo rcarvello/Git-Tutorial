@@ -1,5 +1,5 @@
 # Git Tutorial
-A simple repository for illustrating the main features of Git and GitHub
+A simple repository illustrating the main features of Git and GitHub
 
 
 
