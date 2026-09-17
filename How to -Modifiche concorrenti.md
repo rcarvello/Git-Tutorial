@@ -278,5 +278,8 @@ git rebase --skip
 in questo esempio, perché salterebbe il commit di Paolo e quindi potrebbe eliminare la sua modifica dal risultato finale.
 
 ## 9. Grafico del processo di modifica concorrente
+### Diagramma di flusso di alto livello
 ![Modifiche Concorrenti](./How%20to%20-Modifiche%20concorrenti.png)
+### Diagramma di flusso con comandi Git e azioni su GitHub
+![Modifiche Concorrenti](./Flusso-con-comandi.png)
 
