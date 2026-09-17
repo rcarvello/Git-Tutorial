@@ -276,3 +276,6 @@ git rebase --skip
 ```
 
 in questo esempio, perché salterebbe il commit di Paolo e quindi potrebbe eliminare la sua modifica dal risultato finale.
+
+## 9. Grafico del processo di modifica concorrente
+![Grafico del processo di modifica concorrente](./How to -Modifiche concorrenti.png)
