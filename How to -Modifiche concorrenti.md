@@ -1,4 +1,6 @@
-# Guida Git: Luca e Paolo modificano la stessa riga di `elementi/sidebar.html`
+# Guida Git: Gestire modifiche concorrenti con Git
+
+Scenario: Luca e Paolo modificano la stessa riga di `elementi/sidebar.html`
 
 Repository: `https://github.com/rcarvello/Git-Tutorial.git`
 
