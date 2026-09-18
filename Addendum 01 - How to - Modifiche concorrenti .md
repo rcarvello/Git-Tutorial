@@ -1,4 +1,4 @@
-## Addendum 01 - How to - Modifiche concorrenti
+## Addendum 01  - Modifiche concorrenti - Contributors ufficiali sul progetto
 Per avere due contributor reali, Luca e Paolo devono usare due account GitHub distinti. 
 L’email da sola non basta: ogni account deve avere anche un proprio username GitHub.
 
